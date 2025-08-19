@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/premium_photo-1689977968861-9c91dbb16049.jpg"
+      },
+      "image": "src/assets/travel-to-the-beautiful-colorful-majestic-waterfall.jpg",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "sara_smith",
+        "profile_pic": "src/assets/user2_profile.jpg"
+      },
+      "image": "src/assets/mountain_view.jpg",
+      "caption": "Hiking day 🏔️ #Adventure",
+      "likes": 89,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Looks great!"
+        }
+      ],
+      "timestamp": "2025-02-15T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "mike_jones",
+        "profile_pic": "src/assets/user3_profile.jpg"
+      },
+      "image": "src/assets/beach_vibes.jpg",
+      "caption": "Relaxing at the beach 🌊 #Holiday",
+      "likes": 200,
+      "comments": [
+        {
+          "user": "sara_smith",
+          "comment": "So peaceful!"
+        },
+        {
+          "user": "alice_wonder",
+          "comment": "Wish I was there 🏝️"
+        }
+      ],
+      "timestamp": "2025-02-18T16:45:00Z"
+    }
+  ]
+}
