@@ -4,7 +4,7 @@ function SideBar() {
   return (
     <div className='m-3 position-fixed' >
     <div className='d-flex flex-column gap-3'>
-      <img className='logo-text' src="src\assets\intagram text.png" alt="" />
+      <img className='logo-text' src="\assets\intagram text.png" alt="" />
       <div><i className="bi bi-house"></i>Home</div>
       <div><i className="bi bi-search-heart"></i>Searh</div>
       <div><i className="bi bi-compass"></i>Explore</div>
