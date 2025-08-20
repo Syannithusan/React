@@ -5,9 +5,9 @@
       "user": {
         "id": 101,
         "username": "john_doe",
-        "profile_pic": "src/assets/1.jpg"
+        "profile_pic": "/assets/1.jpg"
       },
-      "image": "src/assets/11.jpg",
+      "image": "/assets/11.jpg",
       "caption": "Beautiful sunset 🌅 #Nature",
       "likes": 120,
       "comments": [
@@ -27,9 +27,9 @@
       "user": {
         "id": 102,
         "username": "sara_smith",
-        "profile_pic": "src/assets/2.jpg"
+        "profile_pic": "/assets/2.jpg"
       },
-      "image": "src/assets/22.jpg",
+      "image": "/assets/22.jpg",
       "caption": "Hiking day 🏔️ #Adventure",
       "likes": 89,
       "comments": [
@@ -45,9 +45,9 @@
       "user": {
         "id": 103,
         "username": "mike_jones",
-        "profile_pic": "src/assets/3.jpg"
+        "profile_pic": "/assets/3.jpg"
       },
-      "image": "src/assets/33.jpg",
+      "image": "/assets/33.jpg",
       "caption": "Relaxing at the beach 🌊 #Holiday",
       "likes": 200,
       "comments": [
