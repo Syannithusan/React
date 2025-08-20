@@ -62,5 +62,38 @@
       ],
       "timestamp": "2025-02-18T16:45:00Z"
     }
-  ]
-}
+  ],
+  "profile":{
+    
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "/assets/1.jpg"
+      },
+  "suggestion":[
+        {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "/assets/1.jpg"
+      },
+      {
+        "id": 102,
+        "username": "sara_smith",
+        "profile_pic": "/assets/2.jpg"
+      },
+      {
+        "id": 103,
+        "username": "mike",
+        "profile_pic": "/assets/3.jpg"
+      },
+      {
+        "id": 103,
+        "username": "mike_",
+        "profile_pic": "/assets/3.jpg"
+      },
+      {
+        "id": 103,
+        "username": "mike_jones",
+        "profile_pic": "/assets/3.jpg"
+      }
+      ]
+  }
