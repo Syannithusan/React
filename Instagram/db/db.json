@@ -5,7 +5,7 @@
       "user": {
         "id": 101,
         "username": "john_doe",
-        "profile_pic": "src/assets/premium_photo-1689977968861-9c91dbb16049.jpg"
+        "profile_pic": "src/assets/pexels-toan-d-cong-680842095-25835001.jpg"
       },
       "image": "src/assets/travel-to-the-beautiful-colorful-majestic-waterfall.jpg",
       "caption": "Beautiful sunset 🌅 #Nature",
@@ -27,7 +27,7 @@
       "user": {
         "id": 102,
         "username": "sara_smith",
-        "profile_pic": "src/assets/user2_profile.jpg"
+        "profile_pic": "src/assetspexels-giovanna-kamimura-399616174-33362180.jpg"
       },
       "image": "src/assets/mountain_view.jpg",
       "caption": "Hiking day 🏔️ #Adventure",
@@ -45,7 +45,7 @@
       "user": {
         "id": 103,
         "username": "mike_jones",
-        "profile_pic": "src/assets/user3_profile.jpg"
+        "profile_pic": "src/assets/pexels-gemilang-malang-travel-2154995644-33497212.jpg"
       },
       "image": "src/assets/beach_vibes.jpg",
       "caption": "Relaxing at the beach 🌊 #Holiday",
