@@ -41,7 +41,7 @@ function Suggestions() {
 
       {/* Suggestion Header */}
       <div className='d-flex mt-3'>
-        <p className='mb-0'>Suggestions for you</p>
+        <b className='mb-0'>Suggestions for you</b>
         <b className='ms-auto'>See All</b>
       </div>
 
@@ -54,13 +54,13 @@ function Suggestions() {
                 <img className='dp rounded-circle' src={suggestion.profile_pic} alt="suggestion-pic" width="40" height="40"
                 />
                 <h6 className='ms-2 mb-0'>{suggestion.username}</h6>
-                <p className='text-primary'>Follow</p>
+                <p className='ms-auto text-primary'>Follow</p>
               </div>
             </div>
           ))}
         </div>
       ) : (
-        <div>Loading suggestions...</div>
+        <div><b>Loading suggestions...</b></div>
       )}
     </div>
   )
